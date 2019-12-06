@@ -21,7 +21,7 @@ Link: https://www.kaggle.com/luthfim/steam-reviews-dataset
 ### Methods and Steps
 The projects contain three parts: Exploratory Data Analysis, Topic Modeling and Classification.
 
-#### Exploratory Data Analysis [Project 2 - EDA.ipynb](Project 2 - EDA.ipynb)
+#### Exploratory Data Analysis [Project 2 - EDA.ipynb](https://github.com/BoyangW/Steam-Review-Analysis/blob/master/Project%202%20-%20EDA.ipynb)
 This part contains codes and visuals to explore the original dataset from Kaggle Competition, and process/clean the data accordingly for the later parts.
 The cleaning mainly consists of: 
 1. remove missing values
@@ -30,7 +30,7 @@ The cleaning mainly consists of:
 4. remove customized frequent words
 5. remove non-ASCII encoded characters
 
-#### Topic Modeling (Project 2 - Topic Modeling.ipynb) 
+#### Topic Modeling [Project 2 - Topic Modeling.ipynb](https://github.com/BoyangW/Steam-Review-Analysis/blob/master/Project%202%20-%20Text%20Classification.ipynb)
 This part contains codes and visuals to learn best number of topics by coherence values, subset the entire dataset and extract the topics by subsets accordingly. The subsets consists of:
 1. recommended reviews
 2. not-recommended reviews
@@ -41,7 +41,7 @@ The topics from each of the section could reflect the topics gamers are discussi
 
 Note: mallet-2.0.8 needed for visualize the topic modeling results
 
-#### Text Classification (Project 2 - Text Classification.ipynb)
+#### Text Classification [Project 2 - Text Classification.ipynb](https://github.com/BoyangW/Steam-Review-Analysis/blob/master/Project%202%20-%20Text%20Classification.ipynb)
 This part contains codes and visuals of training a recurrent neural networks to classify the reviews based on recommendation (recommended vs not-recommended)
 Specifically, this part converts text with word embeddings to fit into a customized neural network with:
 1. 1000 by 100 embedding layer
