@@ -21,7 +21,7 @@ Link: https://www.kaggle.com/luthfim/steam-reviews-dataset
 ### Methods and Steps
 The projects contain three parts: Exploratory Data Analysis, Topic Modeling and Classification.
 
-#### Exploratory Data Analysis (Project 2 - EDA.ipynb)
+#### Exploratory Data Analysis [Project 2 - EDA.ipynb](Project 2 - EDA.ipynb)
 This part contains codes and visuals to explore the original dataset from Kaggle Competition, and process/clean the data accordingly for the later parts.
 The cleaning mainly consists of: 
 1. remove missing values
