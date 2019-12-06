@@ -30,7 +30,7 @@ The cleaning mainly consists of:
 4. remove customized frequent words
 5. remove non-ASCII encoded characters
 
-#### Topic Modeling [Project 2 - Topic Modeling.ipynb](https://github.com/BoyangW/Steam-Review-Analysis/blob/master/Project%202%20-%20Text%20Classification.ipynb)
+#### Topic Modeling [Project 2 - Topic Modeling.ipynb](https://github.com/BoyangW/Steam-Review-Analysis/blob/master/Project%202%20-%20Topic%20Modeling.ipynb)
 This part contains codes and visuals to learn best number of topics by coherence values, subset the entire dataset and extract the topics by subsets accordingly. The subsets consists of:
 1. recommended reviews
 2. not-recommended reviews
