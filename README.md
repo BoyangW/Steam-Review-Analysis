@@ -39,7 +39,7 @@ This part contains codes and visuals to learn best number of topics by coherence
 
 The topics from each of the section could reflect the topics gamers are discussing accordingly, and more details and explanation could be found in the notebook above.
 
-Note: mallet-2.0.8 needed for visualize the topic modeling results
+Note: [mallet-2.0.8](http://mallet.cs.umass.edu/download.php) needed for visualize the topic modeling results
 
 #### Text Classification [Project 2 - Text Classification.ipynb](https://github.com/BoyangW/Steam-Review-Analysis/blob/master/Project%202%20-%20Text%20Classification.ipynb)
 This part contains codes and visuals of training a recurrent neural networks to classify the reviews based on recommendation (recommended vs not-recommended)
@@ -52,7 +52,8 @@ Specifically, this part converts text with word embeddings to fit into a customi
 The final accuracy on testing set is around 0.79; more visuals regarding to training/testing loss and accuracy with different epochs could be found in the notebook above.
 
 ### Results:
-The presentation poster could be found here
+The presentation poster could be found [here](https://github.com/BoyangW/Steam-Review-Analysis/blob/master/Poster.pptx)
+
 More details could be found in the jupyter notebooks above.
 
 
